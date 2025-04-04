@@ -1,9 +1,0 @@
-PseudoCodigo
-
-1º Inicio;
-2º Leia n;
-3º n1 = n-1;
-4º n2 = 10-n;
-5º r = (n1*x) + n2;
-6º imprima r;
-7º Fim;
