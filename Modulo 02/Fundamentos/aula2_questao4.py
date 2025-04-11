@@ -1,0 +1,23 @@
+#4 - Uma conta poupança foi aberta com um depósito de R$500,00. Esta conta é remunerada em 1% de juros ao mês. 
+# O código a seguir apresenta uma forma de implementação para calcular três meses de acúmulo de juros. 
+# Reescreva esse código usando apenas duas variáveis.
+#juros = 1.01
+#saldo = 500.0
+#rendimento1 = saldo * juros
+#rendimento2 = rendimento1 * juros
+#rendimento3 = rendimento2 * juros
+#print("Após 3 meses meu novo saldo é")
+#print(rendimento3)
+
+
+
+saldo = 500.0
+juros = 1.01
+# Calculando o saldo após 3 meses
+saldo = saldo * juros    # Após 1 mês
+print("Após 1 mês meu novo saldo é:", saldo)
+saldo = saldo * juros  # Após 2 meses
+print("Após 2 meses meu novo saldo é:", saldo)
+saldo = saldo * juros  # Após 3 meses
+# Imprimindo o saldo final
+print("Após 3 meses meu novo saldo é:", saldo)
