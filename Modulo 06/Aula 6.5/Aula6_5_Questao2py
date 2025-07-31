@@ -1,0 +1,11 @@
+# Lista de listas com os lados dos triângulos
+triangulos = [[3, 3, 3], [4, 4, 5], [5, 5, 5], [2, 2, 3]]
+
+# Função customizada para verificar se um triângulo é equilátero
+def eh_equilatero(triangulo):
+    return triangulo[0] == triangulo[1] == triangulo[2]
+
+# Aplicando filter com a função personalizada
+triangulos_equilateros = list(filter(eh_equilatero, triangulos))
+
+print(triangulos_equilateros)
