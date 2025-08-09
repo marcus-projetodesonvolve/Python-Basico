@@ -1,10 +1,10 @@
 abacaxi
-girassol
-paralelepipedo
 computador
-maratona
-bicicleta
-historia
-borboleta
-espaguete
+elefante
+girassol
+montanha
 pipoca
+sanduiche
+telefone
+vassoura
+xadrez
