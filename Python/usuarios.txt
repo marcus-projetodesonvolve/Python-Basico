@@ -1,0 +1,4 @@
+Marcus,076284,cliente
+admin,admin,cliente
+Luis,112200,cliente
+teste,validar,cliente
