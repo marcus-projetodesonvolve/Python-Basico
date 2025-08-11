@@ -1,0 +1,4 @@
+gerente1,123,gerente
+funcionario1,abc,funcionario
+funcionario2,456,funcionario
+marcus,0762,gerente

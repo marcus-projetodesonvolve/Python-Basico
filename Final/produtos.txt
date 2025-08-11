@@ -1,0 +1,5 @@
+P001,Pão Francês,0.5,150
+P002,Pão de Queijo,1.0,50
+B001,Bolo de Chocolate,25.0,5
+S001,Coxinha de Frango,6.0,30
+D001,Brigadeiro,2.5,40
